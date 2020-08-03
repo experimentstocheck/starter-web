@@ -1,2 +1,7 @@
 adding new line
 adding new line 2
+.
+/
+,
+'
+check for merge conflict and pmerge tool
